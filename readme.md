@@ -11,3 +11,5 @@ API port is 8081 (e.g. http://localhost:8081/listUsers)
 
 Clients port is 3000 - http://localhost:3000/
 
+# credits
+based on https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
